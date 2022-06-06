@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Livia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Livia\\.nuget\\packages"
+    ]
+  }
+}
